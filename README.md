@@ -1,7 +1,3 @@
-Got it! I'll keep the formatting exactly as it is and only change what’s necessary to explain the background issue. Here's your updated README:  
-
----
-
 # **SoundTune**  
 SoundTune is an Android application that automatically adjusts media volume based on ambient noise levels. Built with Jetpack Compose and Material Design 3, it provides a seamless experience for managing audio volume in different environments.  
 
